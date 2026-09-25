@@ -14,6 +14,6 @@ routingRules:
   - version: "2.0.0"
     targetType: "url"
     target:
-      url: "http://168.144.146.178:8080/receiver"
+      url: "http://discover.168.144.146.178.sslip.io/receiver"
     endpoints:
       - discover
